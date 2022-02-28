@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true breviate of the great oppressions and injuries done to Evan Vaughan post-master of Ireland; by Edmond Prideaux, Esq; Attorney Generall, and post-master of England, since March, 1648.</title>
+            <author>Vaughan, Evan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95824</idno>
+            <idno type="STC">Wing V120</idno>
+            <idno type="STC">Thomason E698_7</idno>
+            <idno type="STC">ESTC R207012</idno>
+            <idno type="EEBO-CITATION">99866089</idno>
+            <idno type="PROQUEST">99866089</idno>
+            <idno type="VID">166541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166541)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E698[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true breviate of the great oppressions and injuries done to Evan Vaughan post-master of Ireland; by Edmond Prideaux, Esq; Attorney Generall, and post-master of England, since March, 1648.</title>
+                  <author>Vaughan, Evan.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Evan Vaughan.</note>
+                  <note>Annotation on Thomason copy: "May 27. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prideaux, Edmond, --  Sir, d. 1659.</term>
+               <term>Postal service --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:166541:1" rendition="simple:additions"/>
+            <p>A TRUE BREVIATE OF THE Great Oppreſſions and Injuries done to EVAN VAUGHAN Poſt-Maſter of IRELAND; By EDMOND PRIDEAUX,
+<abbr>Eſq</abbr> Attorney Generall, And Poſt-Maſter of ENGLAND, ſince <hi>March,</hi> 1648.</p>
+            <p n="1">I. <seg rend="decorInit">T</seg>He ſaid <hi>Evan Vaughan</hi> having been for fif<g ref="char:EOLhyphen"/>teen years laſt paſt Poſt-Maſter of <hi>Dublin,</hi> by the appointment of Mr. <hi>Witherings,</hi> for<g ref="char:EOLhyphen"/>merly Poſt-Maſter-General of <hi>England,</hi> af<g ref="char:EOLhyphen"/>terwards by Mr. <hi>Burlamachi;</hi> which place in the year 1642. was confirmed to him, by the ſaid Mr. <hi>Prideaux</hi> upon certaine Ar<g ref="char:EOLhyphen"/>ticles. In the year 1646. the aforeſaid <hi>Vaughan</hi> was for<g ref="char:EOLhyphen"/>ced to come for <hi>England,</hi> having loſt all his meanes in <hi>Ireland,</hi> for ſubſiſting; but in <hi>May</hi> 1647. Colonel <hi>Michael
+<pb n="2" facs="tcp:166541:2"/>Jones,</hi> and the reſt of the Commiſſioners for <hi>Ireland</hi> went over, with whom the ſaid <hi>Vaughan</hi> went from <hi>London,</hi> upon the former Articles with Maſter <hi>Prideaux,</hi> as Poſt-Maſter of <hi>Dublin,</hi> and continued ſo till <hi>April,</hi> 1649. At which time, the ſaid Mr. <hi>Prideaux</hi> unjuſtly diſcharged him of his ſaid Imployment, becauſe he would not abate him Twenty ſhillings a week of his Sallary, formerly allowed him by Mr. <hi>Witherings,</hi> and Mr. <hi>Burlamachi,</hi> and granted him upon the ſaid Articles by the ſaid Mr. <hi>Prideaux;</hi> which is ready to be produced under his Hand and Seal.</p>
+            <p n="2">II. The ſaid Mr. <hi>Prideaux</hi> in purſuance of his covetous ends which the ſaid <hi>Vaughan</hi> would not ſubmit unto, did out of Spleen to the ſaid <hi>Vaughan,</hi> maliciouſly ſuggeſt to his Ex<g ref="char:EOLhyphen"/>cellency the Lord Generall, then Lord Lieutenant of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> many falſe things to the ſaid <hi>Vaughans</hi> diſadvantage; endeavoring to deſtroy him in his good name, and thereby to deprive him not only of his then place and livelihood, but alſo of his Excellencies favor, to obtaine any other way to live; knowing that being done, hee could ruine him at his pleaſure: And in order thereunto, did contra<g ref="char:EOLhyphen"/>ry to his owne knowledge, and the Certificates of Col. <hi>Jones,</hi> and divers other Officers of the Army in <hi>Ireland,</hi> and Marchants of <hi>Dublin,</hi> on the ſaid <hi>Vaughans</hi> behalfe, charge the ſaid <hi>Vaughan</hi> with unfaithfulneſs in the man<g ref="char:EOLhyphen"/>agement of his truſt, making uſe of that pretence to out the ſaid <hi>Vaughan,</hi> in regard he would not yeeld to his covetous deſire, to abate the ſaid Twenty ſhillings a week of his Sallary; Notwithſtanding, the ſaid Mr. <hi>Prideaux</hi> comings-in then, was above Four thouſand pounds a year raiſed for him, by the induſtry and labour of the ſaid <hi>Evan Vaughan,</hi> and the reſt of the Poſt-Maſters of <hi>England,</hi> whom hee alſo aſſured by his promiſe, That every man ſhould
+<pb n="3" facs="tcp:166541:2"/>reap the benefit of his own labour, and to bee their pro<g ref="char:EOLhyphen"/>tector againſt all wrongfull oppoſers on that behalfe.</p>
+            <p n="3">III. The ſaid <hi>Evan Vaughan</hi> having, though to his great expences in many journeys, cleared himſelf of thoſe ſcan<g ref="char:EOLhyphen"/>dals, and confirmed his Excellencies favor toward him, by evidencing the Equity of his Complaint, and making ap<g ref="char:EOLhyphen"/>pear his Innocency, as to thoſe things laid to his charge: His Excellency therupon promiſed to procure him his place again, with all profits thereto belonging. Whereupon the ſaid <hi>Evan Vaughan</hi> came to <hi>London</hi> again, in order to obtain Mr. <hi>Prideaux</hi> good will therein, that he might be free from further vexations, and preſented him with an account of 36 pounds and 18 ſhillings, or-thereabouts, due to him for ſervice upon account, according to the a<g ref="char:EOLhyphen"/>foreſaid Articles, which he denied to accept of; and told him, if he would give him ſuch an account, as he would approve of, he would accept of it, and would let the ſaid <hi>Vaughan</hi> enjoy his place again, according to the former Articles, ſaying, <hi>I ſee you have the Lord Lieutenants good will:</hi> Upon which account, to buy Mr. <hi>Prideaux</hi> favor, the ſaid <hi>Vaughan</hi> was forced to make himſelf debtor to him Forty pound and nine ſhillings; ſo he gave him near Eighty pound to keep himſelf out of his place, as it did after<g ref="char:EOLhyphen"/>wards appear: For when he came to <hi>Dublin,</hi> another had a Commiſſion from Mr. <hi>Prideaux</hi> for executing his Office or place in <hi>Dublin</hi> aforeſaid.</p>
+            <p n="4">IV. Afterward the ſaid <hi>Vaughan,</hi> by Petition made his caſe known to the Lord General, then at <hi>Cork,</hi> whereupon His Excellency granted him a Commiſſion to be Poſt-Maſter General of <hi>Ireland;</hi> being fully ſatisfied of his Fidelity
+<pb n="4" facs="tcp:166541:3"/>and Abillity to diſcharge that place, and wrote a Letter to that purpoſe, in his behalf, to the Councel of State, who did alſo approve of, and confirmed his ſaid Commiſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="5">V. The ſaid Maſter <hi>Prideaux</hi> upon an Order from the Councell of State, did Article with the ſaid <hi>Vaughan</hi> for maintaining two Poſt Barques to be imployed between <hi>Milford-Haven</hi> and <hi>Ireland;</hi> and then declared before the Committee, that he would defray and pay the charge of the Poſt Barques, ſo long as he ſhould continue Poſt-Maſter, and promiſed to advance the ſaid <hi>Vaughan</hi> a Hun<g ref="char:EOLhyphen"/>dred pound: But afterwards, Mr. <hi>Prideaux</hi> being confirm<g ref="char:EOLhyphen"/>ed by the Councel in his place, would not let the ſaid <hi>Vaughan</hi> have a peny, unleſs he would give him a Bond and Security; who being ready to leave the Towne, and wanting money, he was forced to do; but after the Bond was ſealed, he gave him onely a Note to receive Nine and fifty pound eleven ſhillings, and ſtopt the Forty pound and nine ſhillings, which he pretended he owed him; notwith<g ref="char:EOLhyphen"/>ſtanding, he had kept the ſaid <hi>Vaughan</hi> moſt injuriouſly out of his place, and put him to the expence of many jour<g ref="char:EOLhyphen"/>neys, to the hazard of his life, both by Sea and Land, and to the impoveriſhing of Himſelf, Wife, and Fa<g ref="char:EOLhyphen"/>mily.</p>
+            <p n="6">VI. Having been forced to yeeld to his Oppreſſion, in that particular, the ſaid <hi>Vaughan</hi> nevertheleſs went chearfully a<g ref="char:EOLhyphen"/>bout the States buſineſs, &amp; ſetled the two Poſt Barques at <hi>Milford,</hi> and returned Certificates of the ſame to the Com<g ref="char:EOLhyphen"/>mittee of <hi>Scotch</hi> &amp; <hi>Iriſh</hi> Affairs; which ſervice was well ap<g ref="char:EOLhyphen"/>proved of by them; &amp; when he arrived in <hi>Ireland,</hi> did ſettle
+<pb n="5" facs="tcp:166541:3"/>what ſtages he could in <hi>Munſter:</hi> And afterwards got leave to go from the Head quarters to <hi>Dublin,</hi> purpoſely to ſettle that place in order to the Lord Deputy <hi>Iretons</hi> command; but when he came thither, the ſaid Mr. <hi>Prideaux,</hi> contrary to his word and aſſurance given him, had Articled with Major <hi>Swift</hi> for his place there; ſo that he was forced to return as he came to the Head-quarters. And Four moneths after, the ſaid <hi>Vaughan</hi> being commanded by the Lord Deputy to ſettle Stages between <hi>Dublin</hi> and <hi>London-Derry,</hi> he did the ſame upon his own charges; as alſo went into <hi>Scotland</hi> with a Pacquet to the Lord General; and there preſented his Excellency with a Petition, ſetting forth the Wrongs and Injuries done to him, by the ſaid Mr. <hi>Prideaux:</hi> Whereupon his Excellency granted him another Commiſſion, expreſſing, That none ſhould be im<g ref="char:EOLhyphen"/>ployed in <hi>Dublin</hi> as Poſt Maſter, but the ſaid <hi>Vaughan,</hi> or his Deputy.</p>
+            <p n="7">VII. The ſaid <hi>Vaughan</hi> having by Vertue of the laſt reci<g ref="char:EOLhyphen"/>ted Commiſſion, ſetled a Deputy at <hi>Dublin,</hi> and being commanded with a Pacquet from the Commiſſioners of Parliament for <hi>England,</hi> he came again to <hi>London,</hi> and then deſired Mr. <hi>Prideaux</hi> to pay what was due for the Poſt-Barques ſervice, but he refuſed to pay their wages; by which means he was forced to Petition the Councel of State for their pay; and Maſter <hi>Prideaux</hi> after Three moneths attendance was ordered to pay him the ſame, being Two hundred pounds, after abating of near Fifty pound in the account: Which Order being iſſued to him, he refuſed to obſerve, but lent onely Seventy pound to the ſaid <hi>Vaughan,</hi> and then deſired him to ſettle Stages in <hi>South-Wales,</hi> which he did: Notwithſtanding all theſe diſcouragements, hoping, That his obſervance of Maſter
+<pb n="6" facs="tcp:166541:4"/>
+               <hi>Prideaux</hi> will, would in ſome meaſure diminiſh his cruelty, and rigour, and incite him to do him right. Whereupon the ſaid Mr. <hi>Prideaux</hi> wrote a Letter to his Agent at <hi>Dublin</hi> to diſcharge him, well approving of the ſaid <hi>Vaughans</hi> Commiſſions, and promiſed to give him ſatisfaction for his journey, when he ſhould come back from <hi>South-Wales,</hi> and endeavor payment of the money the Councel of State had ordered him; but upon the ſaid <hi>Vaughans</hi> coming to <hi>London,</hi> he was forced to Petition again; and though he obtained the ſecond Order, the ſaid Mr. <hi>Prideaux</hi> delayed the payment thereof ſo long, that during his attendance on him, he was Arreſted for money that he had taken up to performe the States ſervice; which, the ſaid Two hundred pound the Councel had ordered him, was to diſ<g ref="char:EOLhyphen"/>charge; and then Mr. <hi>Prideaux</hi> hearing of his troubles, would not pay him a peny: But thinking that he could never come out of priſon, moſt unjuſtly did write a ſecond Letter to his Agent at <hi>Dublin,</hi> letting him underſtand, That if he was in the imployment, he might continue in it ſtill; for he thought Mr. <hi>Vaughan</hi> would not trouble him any more. A lively expreſsion of his cruelty, and deſire of revenge.</p>
+            <p n="8">VIII. After the ſaid <hi>Vaughan</hi> had made means to come out of priſon, he went to Mr. <hi>Prideaux,</hi> and deſired the reſt of his money that was behinde, which the Councel had ordered him to pay, &amp; what was then due for the Poſt Barques hire; for Mr. <hi>Prideaux</hi> had paid ſome out of the money, which the Councel had ordered him, upon the ſaid <hi>Vaughans</hi> Bills to Mr. <hi>Peters,</hi> and to one Cap. <hi>Thomas,</hi> about One hundred and fifteen pound: But Maſter <hi>Prideaux</hi> would neither pay him any money, nor deliver his Bond for the Seventy pound, nor give him any ſatisfaction for his journey, but
+<pb n="7" facs="tcp:166541:4"/>very ſcornfully bid him take his courſe; knowing very well he might by his power and intereſt over-ſway, and perſwade many perſons then in power againſt him; as the ſaid <hi>Vaughan</hi> had found it, by Mr. <hi>Bond,</hi> to whom Mr. <hi>Pri<g ref="char:EOLhyphen"/>deaux</hi> had promiſed to ſpeak in his behalf; but on the con<g ref="char:EOLhyphen"/>trary, told him many things againſt him, which were made appear to be falſe, before Maſter <hi>Prideaux</hi> at the Commit<g ref="char:EOLhyphen"/>tee, when the ſaid Two hundred pound was ordered him.</p>
+            <p n="9">IX. The aforeſaid <hi>Vaughan</hi> did then againe Petition the Councel of State, which Petition was referred to the Committee for <hi>Iriſh</hi> Affairs, who was to hear his further agrievances, and Maſter <hi>Prideaux</hi> defence, and to report back the ſame to the Councel: To which end, a day be<g ref="char:EOLhyphen"/>ing appointed, and Maſter <hi>Prideaux</hi> deſired to be there; the firſt day he ſent word, that he could not attend; and the ſecond ſitting he came, and through his ſubtilty, and other advantages, perſwaded the Committee not to do any thing in the buſineſs.</p>
+            <p n="10">X. The aforeſaid <hi>Vaughan</hi> finding that hee could have no Juſtice againſt him, in relation to his own Complaints, appeared in the behalf of one he had engaged in the States ſervice; to wit, Maſter <hi>White</hi> of <hi>Milford,</hi> and de<g ref="char:EOLhyphen"/>ſired, That the ſaid Mr. <hi>White</hi> might have ſatisfaction from Mr. <hi>Prideaux,</hi> out of the moneys which he could make appear to be due unto him from Mr. <hi>Prideaux;</hi> but he could have no redreſs therein; notwithſtanding, many Noble Perſons did endeavor it on his behalf, by which means, he was left in a ſad condition, and not able to pay Mr. <hi>White,</hi> who is not yet ſatisfied.</p>
+            <pb n="8" facs="tcp:166541:5"/>
+            <p> This is but a ſhort Recapitulation of the moſt obvious Injuries, which the ſaid <hi>Vaughan</hi> hath ſuffered by the in<g ref="char:EOLhyphen"/>juſtice and oppreſſion of the ſaid Maſter <hi>Prideaux,</hi> which if it be looked upon with an Impartial eye, will ſufficient<g ref="char:EOLhyphen"/>ly plead for the ſaid <hi>Vaughan,</hi> and from the hands of Juſtice require a Compenſation anſwerable to his great loſs and dammages, amounting to above two thouſand pounds, ſuſtained ſince Maſter <hi>Prideaux</hi> had any thing to do with the Poſt Office. All theſe being but one Inſtance of the ſaid Maſter <hi>Prideaux</hi> Spleen, Covetouſneſs, and deſire of Revenge, to all which he proſtituted his power, as many others beſides the ſaid <hi>Vaughan,</hi> have been dearly ſenſible of, and now hopes for and expects ſatisfaction.</p>
+            <p>All which, and much more will be juſtified upon Oath.</p>
+            <closer>
+               <signed>Evan Vaughan.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
